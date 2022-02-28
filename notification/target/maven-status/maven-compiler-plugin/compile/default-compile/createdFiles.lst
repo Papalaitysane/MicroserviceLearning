@@ -1,0 +1,8 @@
+com/microserviceslearning/notification/rabbitmq/NotificationConsumer.class
+com/microserviceslearning/notification/NotificationConfig.class
+com/microserviceslearning/notification/Notification.class
+com/microserviceslearning/notification/NotificationController.class
+com/microserviceslearning/notification/NotificationService.class
+com/microserviceslearning/notification/Notification$NotificationBuilder.class
+com/microserviceslearning/notification/NotificationRepository.class
+com/microserviceslearning/notification/NotificationApplication.class

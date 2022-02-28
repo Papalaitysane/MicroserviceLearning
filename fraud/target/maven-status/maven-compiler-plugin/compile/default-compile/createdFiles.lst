@@ -1,0 +1,6 @@
+com/microserviceslearning/fraud/FraudApplication.class
+com/microserviceslearning/fraud/FraudCheckHistory$FraudCheckHistoryBuilder.class
+com/microserviceslearning/fraud/FraudCheckHistoryRepository.class
+com/microserviceslearning/fraud/FraudController.class
+com/microserviceslearning/fraud/FraudCheckService.class
+com/microserviceslearning/fraud/FraudCheckHistory.class

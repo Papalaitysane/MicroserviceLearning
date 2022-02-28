@@ -1,0 +1,7 @@
+/home/papalaity/Documents/MyProjects/microservices/notification/src/main/java/com/microserviceslearning/notification/rabbitmq/NotificationConsumer.java
+/home/papalaity/Documents/MyProjects/microservices/notification/src/main/java/com/microserviceslearning/notification/Notification.java
+/home/papalaity/Documents/MyProjects/microservices/notification/src/main/java/com/microserviceslearning/notification/NotificationConfig.java
+/home/papalaity/Documents/MyProjects/microservices/notification/src/main/java/com/microserviceslearning/notification/NotificationController.java
+/home/papalaity/Documents/MyProjects/microservices/notification/src/main/java/com/microserviceslearning/notification/NotificationRepository.java
+/home/papalaity/Documents/MyProjects/microservices/notification/src/main/java/com/microserviceslearning/notification/NotificationApplication.java
+/home/papalaity/Documents/MyProjects/microservices/notification/src/main/java/com/microserviceslearning/notification/NotificationService.java

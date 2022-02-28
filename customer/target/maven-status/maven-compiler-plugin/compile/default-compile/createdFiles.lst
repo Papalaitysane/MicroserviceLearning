@@ -1,0 +1,8 @@
+com/microserviceslearning/customer/Customer.class
+com/microserviceslearning/customer/CustomerController.class
+com/microserviceslearning/customer/CustomerConfig.class
+com/microserviceslearning/customer/CustomerService.class
+com/microserviceslearning/customer/CustomerRepository.class
+com/microserviceslearning/customer/CustomerRegistrationRequest.class
+com/microserviceslearning/customer/Customer$CustomerBuilder.class
+com/microserviceslearning/customer/CustomerApplication.class

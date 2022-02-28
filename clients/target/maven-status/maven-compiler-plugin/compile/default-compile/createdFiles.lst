@@ -1,0 +1,4 @@
+com/microserviceslearning/clients/fraud/FraudClient.class
+com/microserviceslearning/clients/notification/NotificationRequest.class
+com/microserviceslearning/clients/fraud/FraudCheckResponse.class
+com/microserviceslearning/clients/notification/NotificationClient.class
